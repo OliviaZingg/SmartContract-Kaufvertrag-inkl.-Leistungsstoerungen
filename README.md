@@ -1,0 +1,1 @@
+# SmartContract-Kaufvertrag-inkl.-Leistungsstoerungen
